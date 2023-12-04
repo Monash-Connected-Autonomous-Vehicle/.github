@@ -1,6 +1,7 @@
 # Welcome to Monash Connected Autonomous Vehicle!
 
-![large blue](https://github.com/Monash-Connected-Autonomous-Vehicle/.github/assets/45161987/803d98e3-575d-42fe-bd2a-c23611f9e673)
+![large white](https://github.com/Monash-Connected-Autonomous-Vehicle/.github/assets/45161987/8d7f45dd-7fe0-46b0-8eac-abf5e871319a)
+
 
 ## Quick Links
 
